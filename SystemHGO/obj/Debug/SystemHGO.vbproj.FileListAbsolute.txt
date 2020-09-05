@@ -1,0 +1,17 @@
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\bin\Debug\SystemHGO.exe.config
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmAbono.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmArticulos.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmCategoria.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmCliente.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmContado.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmCredito.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmEmpleado.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmEmpresa.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmEstadoCta.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmLogIn.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmMENU.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmProveedor.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmPuesto.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.frmUsuario.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.Resources.resources
+D:\Escuela\UQI - ITIN\5to Cuatrimestre\Análisis y diseño de sistemas\SystemHGO\SystemHGO\obj\Debug\SystemHGO.vbproj.GenerateResource.Cache
